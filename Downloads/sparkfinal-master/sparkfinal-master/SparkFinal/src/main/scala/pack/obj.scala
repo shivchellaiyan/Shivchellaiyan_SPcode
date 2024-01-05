@@ -15,6 +15,8 @@ object obj {
     
     println("===5====")
     
+    println("===6====")
+    
   }
   
 }
