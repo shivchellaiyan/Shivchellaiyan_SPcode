@@ -11,7 +11,8 @@ object obj {
     
     println("===3====")
     
-  
+   println("===4====")
+   
   }
   
 }
